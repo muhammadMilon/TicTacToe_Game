@@ -10,7 +10,6 @@ Welcome to the Tic-Tac-Toe game! This project is a simple implementation of the 
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Motivation](#motivation)
-- [License](#license)
 
 ## Introduction
 
