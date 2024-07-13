@@ -68,7 +68,7 @@ The primary motivation behind this project was to apply the concepts learned in 
 
 ## Demo Video
 
-**Demo Video**: [Watch here](https://t.ly/mt_o5) #demo
+**Demo Video**: [Watch here](https://t.ly/mt_o5)
 
 ---
 
