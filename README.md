@@ -10,6 +10,7 @@ Welcome to the Tic-Tac-Toe game! This project is a simple implementation of the 
 - [Usage](#usage)
 - [Game Rules](#game-rules)
 - [Motivation](#motivation)
+- [Demo Video](#demo-video)
 
 ## Introduction
 
@@ -64,6 +65,10 @@ To run this game on your local machine, follow these steps:
 ## Motivation
 
 The primary motivation behind this project was to apply the concepts learned in the course and create an engaging and interactive application. This project allowed me to improve my skills in Java programming, particularly in using the Swing library for building graphical user interfaces. It also helped me understand game logic implementation and event handling in Java.
+
+## Demo Video
+
+**Demo Video**: [Watch here](https://t.ly/mt_o5) #demo
 
 ---
 
