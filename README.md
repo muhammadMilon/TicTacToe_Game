@@ -67,5 +67,5 @@ The primary motivation behind this project was to apply the concepts learned in 
 
 ---
 
-**Developer**: [Muhammad Milon](https://github.com/muhammadMilon)
+**Developer**: [Muhammad Milon](https://github.com/muhammadMilon)                             
 **Project Link**: [Smash me](https://github.com/muhammadMilon/TicTacToe_Game)
