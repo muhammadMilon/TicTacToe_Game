@@ -14,7 +14,7 @@ Welcome to the Tic-Tac-Toe game! This project is a simple implementation of the 
 
 ## Introduction
 
-This Tic-Tac-Toe game was developed as a part of an assignment given by the CSE department Brotherhood. The objective was to create a fully functional game with a graphical interface, demonstrating proficiency in Java and Swing.
+This Tic-Tac-Toe game was developed as a part of a **Task** given by My Senior. The objective was to create a fully functional game with a graphical interface, demonstrating proficiency in Java and Swing.
 
 ## Features
 
@@ -68,4 +68,5 @@ The primary motivation behind this project was to apply the concepts learned in 
 
 ---
 
-**Developer**: Muhammad Milon  
+**Developer**: [Muhammad Milon](https://github.com/muhammadMilon)
+**Project Link**: [Smash me](https://github.com/muhammadMilon/TicTacToe_Game)
